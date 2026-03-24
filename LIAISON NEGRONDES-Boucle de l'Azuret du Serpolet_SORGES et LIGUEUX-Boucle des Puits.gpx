@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.6.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="45.324821252929169" minlon="0.890790401329171" maxlat="45.327592400316924" maxlon="0.891538329925371"/></metadata>                    
+<trk>
+  <extensions>
+    <ogr:id>1.0</ogr:id>
+    <ogr:LONGUEUR>329.83613162541667</ogr:LONGUEUR>
+  </extensions>
+  <trkseg>
+    <trkpt lat="45.327592400316924" lon="0.891482286511761">
+    </trkpt>
+    <trkpt lat="45.327436122405359" lon="0.891456400719197">
+    </trkpt>
+    <trkpt lat="45.327272338628276" lon="0.891429032446382">
+    </trkpt>
+    <trkpt lat="45.327131005910296" lon="0.89140258104871">
+    </trkpt>
+    <trkpt lat="45.327011957919488" lon="0.891368218657706">
+    </trkpt>
+    <trkpt lat="45.326820988761483" lon="0.891287108852429">
+    </trkpt>
+    <trkpt lat="45.326754947548011" lon="0.891287842821466">
+    </trkpt>
+    <trkpt lat="45.326591928905188" lon="0.891301083086891">
+    </trkpt>
+    <trkpt lat="45.326368150190696" lon="0.891330758475818">
+    </trkpt>
+    <trkpt lat="45.326186202614487" lon="0.891397719260983">
+    </trkpt>
+    <trkpt lat="45.325863040741311" lon="0.891510662589862">
+    </trkpt>
+    <trkpt lat="45.325738929888466" lon="0.891538329925371">
+    </trkpt>
+    <trkpt lat="45.325611463315816" lon="0.89152018788274">
+    </trkpt>
+    <trkpt lat="45.325480907119136" lon="0.891470360919093">
+    </trkpt>
+    <trkpt lat="45.325370724880919" lon="0.891377360190928">
+    </trkpt>
+    <trkpt lat="45.325143814774897" lon="0.891108569675886">
+    </trkpt>
+    <trkpt lat="45.324916057893233" lon="0.890861014509851">
+    </trkpt>
+    <trkpt lat="45.324856757260008" lon="0.89082262500606">
+    </trkpt>
+    <trkpt lat="45.324821252929169" lon="0.890790401329171">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
